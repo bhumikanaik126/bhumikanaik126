@@ -1,6 +1,6 @@
 # Hello, I'm Bhumika Naik! 👋
 
-I’m a developer learning **web development** and having fun coding along the way! Feel free to check out my projects and contributions.
+Learning **web development** and having fun coding along the way! Feel free to check out my projects and contributions.
 
 ## 🚀 GitHub Stats:
 
