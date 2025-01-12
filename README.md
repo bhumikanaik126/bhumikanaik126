@@ -61,6 +61,8 @@
   </a>
 </div>
 
+![snake gif](https://github.com/Akashnaik285/Akashnaik285/blob/output/github-snake-dark.svg)
+###
 
 ###
 
